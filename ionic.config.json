@@ -1,0 +1,7 @@
+{
+  "name": "myAppArbo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
